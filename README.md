@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋 My name is Patrick 
 
-## My name is Patrick and I create different sort of applications, starting from simple landing pages ending with web applications
-### - 🔭 I’m currently working on my portfolio project for job purposes :)
-### - 🌱 I’m currently learning Gatsby using GraphQL - amazing duo :D
-### - ⚡ About me :
+## I create different sort of applications, starting from simple landing pages ending with web applications
+## - 🔭 I’m currently working on my portfolio project for job purposes :)
+## - 🌱 I’m currently learning Gatsby using GraphQL - amazing duo :D
+## - ⚡ About me :
 
 ## I love asian kitchen - Shoyu Ramen is the most amazing dish I've ever eaten (prepared from scratch!) ;)
 Coding is my passion, I love writing code and help others solve their problems. My dream is to get a job as a programmer so that I could learn much more from professional programmers :)

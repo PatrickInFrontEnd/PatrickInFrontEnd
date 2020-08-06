@@ -12,5 +12,6 @@ I am really hard-working man I always try to do my best - there is time for joke
 ### - 📫 How to reach me :
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Patryk Płuciennik | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg"/>][facebook]
+
 [facebook]: https://www.facebook.com/profile.php?id=100001872548365
 [linkedin]: https://www.linkedin.com/in/patryk-p%C5%82uciennik-a67176192/

@@ -6,7 +6,7 @@
 ### - ⚡ About me :
 
 ### I love asian kitchen - Shoyu Ramen is the most amazing dish I've ever eaten (prepared from scratch!);)
-#### Coding is my passion, I love to code and help others solve their problems. My dream is to get a job as a Frontend programmer so that I could learn much more from professional programmers :)
+### Coding is my passion, I love to code and help others solve their problems. My dream is to get a job as a Frontend programmer so that I could learn much more from professional programmers :)
 ### I am really hard-working man I always try to do my best - there is time for jokes and there is time for job  - that is my motto :)
 
 ### - 📫 How to reach me :

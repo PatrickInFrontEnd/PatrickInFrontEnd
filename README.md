@@ -10,9 +10,9 @@
 ### I am really hard-working man I always try to do my best - there is time for jokes and there is time for job  - that is my motto :)
 
 ### Technologies and tools which I use :
-<img style="fill:#FEDD24;" align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/javascript.svg" />
-<img fill="" align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/html5.svg" />
-<img fill="" align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/css3.svg" />
+<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/javascript_skills_1.png" />
+<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/html5.svg" />
+<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/css3.svg" />
 <img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/react.svg" />
 <img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/graphql.svg" />
 <img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/redux.svg" />

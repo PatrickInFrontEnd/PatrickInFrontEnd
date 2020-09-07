@@ -10,7 +10,7 @@
 ### I am really hard-working man I always try to do my best - there is time for jokes and there is time for job  - that is my motto :)
 
 ### Technologies and tools which I use :
-<svg fill="#FEDD24" align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/javascript.svg" />
+<img style="fill:#FEDD24;" align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/javascript.svg" />
 <img fill="" align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/html5.svg" />
 <img fill="" align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/css3.svg" />
 <img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/react.svg" />

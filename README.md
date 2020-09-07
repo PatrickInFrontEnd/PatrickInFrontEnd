@@ -9,6 +9,20 @@
 ### Coding is my passion, I love to code and help others solve their problems. My dream is to get a job as a Frontend programmer so that I could learn much more from professional programmers :)
 ### I am really hard-working man I always try to do my best - there is time for jokes and there is time for job  - that is my motto :)
 
+### Technologies and tools which I use :
+[<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/javascript.svg" />]
+[<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/html5.svg" />]
+[<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/css3.svg" />]
+[<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/react.svg" />]
+[<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/graphql.svg" />]
+[<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/redux.svg" />]
+[<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gatsby.svg" />]
+[<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/webpack.svg" />]
+[<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/node-dot-js.svg" />]
+[<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/firebase.svg" />]
+[<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/figma.svg" />]
+[<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/adobexd.svg" />]
+
 ### [My portfolio site][portfolio]
 
 ### - 📫 How to reach me :

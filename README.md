@@ -11,17 +11,17 @@
 
 ### Technologies and tools which I use :
 <img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/javascript_skills_1.png" />
-<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/html5.svg" />
-<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/css3.svg" />
-<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/react.svg" />
-<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/graphql.svg" />
-<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/redux.svg" />
-<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gatsby.svg" />
-<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/webpack.svg" />
-<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/node-dot-js.svg" />
-<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/firebase.svg" />
-<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/figma.svg" />
-<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/adobexd.svg" />
+<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/html_skills_2.png" />
+<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/css_skills_3.png" />
+<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/react_skills_4.png" />
+<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/graphql_skills_5.png" />
+<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/redux_skills_6.png" />
+<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/gatsby_skills_7.png" />
+<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/webpack_skills_8.png" />
+<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/nodejs_skills_9.png" />
+<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/firebase_skills_10.png" />
+<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/figma_skills_11.png" />
+<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/adobexd_skills_12.png" />
 
 </br>
 

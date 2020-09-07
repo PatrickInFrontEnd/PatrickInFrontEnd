@@ -23,6 +23,7 @@
 <img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/figma.svg" />
 <img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/adobexd.svg" />
 
+</br>
 
 ### [My portfolio site][portfolio]
 

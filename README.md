@@ -25,10 +25,8 @@
 
 </br>
 </br>
-</br>
-</br>
 
-### [My portfolio site][portfolio]
+<div>[My portfolio site][portfolio]</div>
 
 ### - 📫 How to reach me :
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

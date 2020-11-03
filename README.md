@@ -1,13 +1,13 @@
 ## Hi there 👋 My name is Patrick - I am a Frontend Developer
 
 ### I create different sort of applications, starting from simple landing pages ending with web applications
-### - 🔭 I’m currently working on my portfolio project for job purposes :)
+### - 🔭 I’m currently working on e-commerce platform
 ### - 🌱 I’m currently learning Gatsby and GraphQL - amazing duo :D
 ### - ⚡ About me :
 
 ### I love asian kitchen - Shoyu Ramen is the most amazing dish I've ever eaten (prepared from scratch!);)
 ### Coding is my passion, I love coding and helping others to solve their problems. My dream is to get a job as a Frontend developer so that I could learn much more from professional programmers :)
-### I am really hard-working man I always try to do my best - there is time for jokes and there is time for job  - that is my motto :)
+### I am really hard-working man I always try to do my best - there is time for jokes and there is time for job  - this is my motto :)
 
 ### Technologies and tools which I use :
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/javascript_skills_1.png" />][javascript]

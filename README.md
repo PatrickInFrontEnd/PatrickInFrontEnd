@@ -2,7 +2,7 @@
 
 ### I create different sort of applications, starting from simple landing pages ending with web applications
 ### - 🔭 I’m currently working on e-commerce platform
-### - 🌱 I’m currently learning Gatsby and GraphQL - amazing duo :D
+### - 🌱 I’m currently learning how to combine Typescript, Redux and React :D
 ### - ⚡ About me :
 
 ### I love asian kitchen - Shoyu Ramen is the most amazing dish I've ever eaten (prepared from scratch!);)

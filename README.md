@@ -27,12 +27,11 @@
 </br>
 
 ### Projects I've been working on recently:
+- Magazine for youths - blog page with interactive elements (books simulator reading)
 - Planner for english teachers - landing page that included internationalization
 - SaaS: cybersecurity platform for big companies
 - E-commerce platform for filmmakers
 
-</br>
-</br>
 </br>
 </br>
 </br>

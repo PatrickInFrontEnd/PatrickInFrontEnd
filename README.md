@@ -2,11 +2,11 @@
 
 ### I create different sort of applications, starting from simple landing pages ending with web applications
 ### - 🔭 I’m currently working on e-commerce platform
-### - 🌱 I’m currently learning how to combine Typescript, Redux and React :D
+### - 🌱 I’m currently learning how to combine Typescript, React and Next.JS :D
 ### - ⚡ About me :
 
-### I love asian kitchen - Shoyu Ramen is the most amazing dish I've ever eaten (prepared from scratch!);)
-### Coding is my passion, I love coding and helping others to solve their problems.
+### I love asian kitchen - Tantanmen is my favorite dish, combination of creamy broth and a nice beef meat is a great mix! 💙
+### Coding is my passion, I love doing it. Solving technical problems and translating business needs into solutions is something that drives me, giving me a lot of energy! 🔥
 ### I am really hard-working man I always try to do my best - there is time for jokes and there is time for job  - this is my motto :)
 
 ### Technologies and tools which I use :

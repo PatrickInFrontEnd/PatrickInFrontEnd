@@ -23,6 +23,11 @@
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/figma_skills_11.png" />][figma]
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/adobexd_skills_12.png" />][adobexd]
 
+### Projects I've been working on recently:
+- Planner for english teachers - landing page that included internationalization
+- SaaS: cybersecurity platform for big companies
+- E-commerce platform for filmmakers
+
 </br>
 </br>
 </br>

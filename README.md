@@ -1,9 +1,10 @@
 ## Hi there 👋 My name is Patrick - I am a Frontend Developer
 
 ### I create different sort of applications, starting from simple landing pages ending with web applications
-### - 🔭 I’m currently working on e-commerce platform
-### - 🌱 I’m currently learning Next.JS :D
-### - ⚡ About me :
+### 🔭 I’m currently working on e-commerce platform
+### 🌱 I’m currently learning Next.JS :D
+
+### ⚡ About me :
 
 ### I love asian kitchen - Tantanmen is my favorite dish, combination of creamy broth and a nice beef meat is a great mix! 💙
 ### Coding is my passion, I love doing it. Solving technical problems and translating business needs into solutions is something that drives me, giving me a lot of energy! 🔥

@@ -2,7 +2,7 @@
 
 ### I create different sort of applications, starting from simple landing pages ending with web applications
 ### - 🔭 I’m currently working on e-commerce platform
-### - 🌱 I’m currently learning how to combine Typescript, React and Next.JS :D
+### - 🌱 I’m currently learning Next.JS :D
 ### - ⚡ About me :
 
 ### I love asian kitchen - Tantanmen is my favorite dish, combination of creamy broth and a nice beef meat is a great mix! 💙

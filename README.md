@@ -15,12 +15,15 @@
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/css_skills_3.png" />][css]
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/react_skills_4.png" />][react]
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://i18nexus.com/_next/static/media/nextjs.e54be70c.svg" />][nextjs]
+[<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/gatsby_skills_7.png" />][gatsby]
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/graphql_skills_5.png" />][graphql]
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/redux_skills_6.png" />][redux]
-[<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/gatsby_skills_7.png" />][gatsby]
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/webpack_skills_8.png" />][webpack]
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/nodejs_skills_9.png" />][nodejs]
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/firebase_skills_10.png" />][firebase]
+</br>
+</br>
+</br>
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/figma_skills_11.png" />][figma]
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/adobexd_skills_12.png" />][adobexd]
 

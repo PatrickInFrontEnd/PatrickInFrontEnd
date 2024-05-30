@@ -14,6 +14,7 @@
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/html_skills_2.png" />][html]
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/css_skills_3.png" />][css]
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/react_skills_4.png" />][react]
+[<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://i18nexus.com/_next/static/media/nextjs.e54be70c.svg" />][nextjs]
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/graphql_skills_5.png" />][graphql]
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/redux_skills_6.png" />][redux]
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/gatsby_skills_7.png" />][gatsby]
@@ -50,6 +51,7 @@
 [html]: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
 [css]: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
 [react]: https://reactjs.org/
+[nextjs]: https://nextjs.org/
 [graphql]: https://graphql.org/
 [redux]: https://redux.js.org/
 [gatsby]: https://www.gatsbyjs.com/

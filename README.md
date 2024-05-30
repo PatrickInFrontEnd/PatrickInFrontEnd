@@ -1,7 +1,6 @@
 ## Hi there 👋 My name is Patrick - I am a Frontend Developer
 
 ### I create different sort of applications, starting from simple landing pages ending with web applications
-### 🔭 I’m currently working on e-commerce platform
 ### 🌱 I’m currently learning Next.JS :D
 
 ### ⚡ About me :

@@ -1,13 +1,13 @@
 ## Hi there 👋 My name is Patrick - I am a Frontend Developer
 
-### I create different sort of applications, starting from simple landing pages ending with web applications
+### I create different sorts of applications, starting from simple landing pages ending with web applications
 ### 🌱 I’m currently learning Next.JS :D
 
 ### ⚡ About me :
 
-### I love asian kitchen - Tantanmen is my favorite dish, combination of creamy broth and a nice beef meat is a great mix! 💙
-### Coding is my passion, I love doing it. Solving technical problems and translating business needs into solutions is something that drives me, giving me a lot of energy! 🔥
-### I am really hard-working man I always try to do my best - there is time for jokes and there is time for job  - this is my motto :)
+### I love Asian kitchen - Tantanmen is my favorite dish, a combination of creamy broth and a nice beef meat is a great mix! 💙
+### Coding is my passion, I love doing it. Solving technical problems and translating business needs into solutions are things that drive me and give me a lot of energy! 🔥
+### I am really hard-working man I always try to do my best - there is time for jokes and there is time for a job  - this is my motto :)
 
 ### Technologies and tools which I use :
 [<img align="left" alt="Patryk Płuciennik | LinkedIn" width="44px" src="https://github.com/PatrickInFrontEnd/portfolio/blob/master/src/assets/images/javascript_skills_1.png" />][javascript]
@@ -31,11 +31,11 @@
 </br>
 
 ### Projects I've been working on recently:
-- Magazine for youths - blog page with interactive elements (books simulator reading)
-- Planner for english teachers - landing page that included internationalization
-- SaaS: cybersecurity platform for big companies
+- OMS 2.0 (Orders management system) - platform for managing orders related to the real estate market
 - E-commerce platform for filmmakers
-
+- SaaS: cybersecurity platform for big companies
+- Magazine for youths - blog page with interactive elements (books simulator reading)
+- Planner for English teachers - a landing page that included internationalization
 </br>
 </br>
 </br>

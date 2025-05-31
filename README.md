@@ -49,7 +49,7 @@
 
 [facebook]: https://www.facebook.com/profile.php?id=100001872548365
 [linkedin]: https://www.linkedin.com/in/patryk-p%C5%82uciennik-a67176192/
-[portfolio]: https://patrickinfrontend.netlify.app/
+[portfolio]: https://patrickinfrontend.me
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [html]: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
 [css]: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics

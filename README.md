@@ -1,7 +1,7 @@
-## Hi there 👋 My name is Patrick - I am a Frontend Developer
+## Hi there 👋 My name is Patrick - I am a Fullstack Engineer
 
 ### I create different sorts of applications, starting from simple landing pages ending with web applications
-### 🌱 I’m currently learning Next.JS :D
+### 🌱 I’m currently learning Microservices :D
 
 ### ⚡ About me :
 

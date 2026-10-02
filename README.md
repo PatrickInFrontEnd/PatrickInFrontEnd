@@ -31,6 +31,8 @@
 </br>
 
 ### Projects I've been working on recently:
+- AI augmented platform - multiple channel-related web platform to accelerate finance-documents-processing
+- AI augmented system - Finances domain
 - OMS 2.0 (Orders management system) - platform for managing orders related to the real estate market
 - E-commerce platform for filmmakers
 - SaaS: cybersecurity platform for big companies

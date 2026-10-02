@@ -1,7 +1,7 @@
-## Hi there 👋 My name is Patrick - I am a Fullstack Engineer
+## Hi there 👋 My name is Patrick - I am a Fullstack Engineer with huge dose of frontend-related experience
 
-### I create different sorts of applications, starting from simple landing pages ending with web applications
-### 🌱 I’m currently learning Microservices :D
+### I create different sorts of applications, starting from simple landing pages ending with web applications and web systems.
+### 🌱 I’m currently learning Microservices, MongoDB, Mongoose, PostgreSQL, TypeORM, Prisma :D
 
 ### ⚡ About me :
 
@@ -49,7 +49,7 @@
 
 [facebook]: https://www.facebook.com/profile.php?id=100001872548365
 [linkedin]: https://www.linkedin.com/in/patryk-p%C5%82uciennik-a67176192/
-[portfolio]: https://patrickinfrontend.me
+[portfolio]: https://patrick-web.dev/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [html]: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
 [css]: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
